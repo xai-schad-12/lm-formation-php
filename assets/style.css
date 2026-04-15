@@ -1,0 +1,65 @@
+nav{
+    display:flex;
+    justify-content: center;
+    background-color: #000000;
+    padding: 20px;
+    gap: 10px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+body,html{
+    margin: 0px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+}
+
+header{
+  display: flex;
+    justify-content: center;
+}
+div h1{
+    font-size: 50px;
+    color: rgb(54, 54, 128);
+   
+}
+
+div p{
+   
+    font-size: 18px;
+}
+div button{
+    background: #000;
+    color: white;
+    padding: 10px;
+}
+
+.about-title{
+    
+    text-align: center;
+}
+
+#about{
+    margin:50px;
+    background-color: #f0f0f0;
+    padding: 4px;
+}
+
+#contact{
+     margin:50px;
+     align-items: center;
+}
+
+
