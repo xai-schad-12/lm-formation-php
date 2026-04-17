@@ -16,6 +16,10 @@
            <li class="nav-item">
           <a class="nav-link" href="./pages/users.php">utilisateur</a>
         </li>
+         </li>
+           <li class="nav-item">
+          <a class="nav-link" href="./pages/employee.php">Employés</a>
+        </li>
       
       </ul>
     </div>
